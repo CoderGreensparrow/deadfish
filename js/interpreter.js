@@ -1,4 +1,4 @@
-//Credit to whoever created the py interpreter
+//Credit to Calebwin's Pyhton interpreter
 function deadfish(code){
 	let VAR=0;
 	for(let char of code){
